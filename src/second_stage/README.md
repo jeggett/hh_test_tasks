@@ -1,4 +1,4 @@
-Task 1
+Task 1 (Task1.java)
 Problem:
 Given set of N points on a plane. Find pair of closest points;
 
@@ -20,7 +20,7 @@ one point lies on the left of the dividing vertical and the second point lies to
 5. The final answer is the minimum among dLmin, dRmin, and dLRmin.
 
 
-Task 2
+Task 2 (Task2.java)
 Problem:
 Given a finite sequence of natural numbers. Determine wether it is possible to divide the numbers into two subsets such as totals of both subsets are equal. Show one variant of such distribution. Is there a subset of initial set with total of 100.
 
